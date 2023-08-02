@@ -5351,6 +5351,13 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
+react-native-plaid-link-sdk@10.4.0, react-native-plaid-link-sdk@^10.3.0:
+  version "10.4.0"
+  resolved "https://registry.yarnpkg.com/react-native-plaid-link-sdk/-/react-native-plaid-link-sdk-10.4.0.tgz#533856586f4040df29c0c69f82f17d0c8b9f1c42"
+  integrity sha512-8ETjtgD4cjbMRE/s2gQfwex0pmeUTEbpTn6KtfI55sV7EkqtPwgE68SA1M1PRac+rwaSK+e5on7BWrmPWWenfg==
+  dependencies:
+    react-native-plaid-link-sdk "^10.3.0"
+
 react-native@0.72.3:
   version "0.72.3"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.72.3.tgz#f8d85ec81c9f3592d091ec8e9ac1694956a72765"
