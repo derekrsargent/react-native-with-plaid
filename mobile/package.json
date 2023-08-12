@@ -11,6 +11,8 @@
     "pods": "pod-install"
   },
   "dependencies": {
+    "expo": "^49.0.7",
+    "expo-secure-store": "~12.3.1",
     "pod-install": "^0.1.38",
     "react": "18.2.0",
     "react-native": "0.72.3"
